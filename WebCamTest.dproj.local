@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.790,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,=C:\Users\admin\Documents\RAD Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.003,=C:\Users\admin\Documents\RAD Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,=C:\Users\admin\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,C:\Users\admin\Documents\RAD Studio\Projects\Unit2.pas=V:\_projects\WebCamReaderDll\DllTestFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,C:\Users\admin\Documents\RAD Studio\Projects\Unit2.dfm=V:\_projects\WebCamReaderDll\DllTestFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=C:\Users\admin\Documents\RAD Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,=C:\Users\admin\Documents\RAD Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,=C:\Users\admin\Documents\RAD Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,=C:\Users\admin\Documents\RAD Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=C:\Users\admin\Documents\RAD Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,C:\Users\admin\Documents\RAD Studio\Projects\Project1.dproj=V:\_projects\WebCamReaderDll\WebCamTest.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,=C:\Users\admin\Documents\RAD Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\Users\admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
